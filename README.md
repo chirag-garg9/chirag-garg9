@@ -55,8 +55,3 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/chirag-garg9/chirag-garg9/output/snake.svg" alt="Snake animation" />
-
-###
