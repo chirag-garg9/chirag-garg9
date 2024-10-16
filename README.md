@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Chirag Garg and I'm a Artificial Intelligence Developer, from India</h2>
+<h2 align="left">Hi 👋! My name is Chirag Garg and I'm a Artificial Intelligence Research enthusiast, from India</h2>
 
 ###
 
